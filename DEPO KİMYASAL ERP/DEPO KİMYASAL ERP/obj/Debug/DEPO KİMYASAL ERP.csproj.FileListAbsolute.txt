@@ -1,0 +1,51 @@
+c:\users\ottomann\documents\visual studio 2015\Projects\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\bin\Debug\DEPO KİMYASAL ERP.exe.config
+c:\users\ottomann\documents\visual studio 2015\Projects\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\bin\Debug\DEPO KİMYASAL ERP.exe
+c:\users\ottomann\documents\visual studio 2015\Projects\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\bin\Debug\DEPO KİMYASAL ERP.pdb
+c:\users\ottomann\documents\visual studio 2015\Projects\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\obj\Debug\DEPO KİMYASAL ERP.csprojResolveAssemblyReference.cache
+c:\users\ottomann\documents\visual studio 2015\Projects\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\obj\Debug\DEPO_KİMYASAL_ERP.Form1.resources
+c:\users\ottomann\documents\visual studio 2015\Projects\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\obj\Debug\DEPO_KİMYASAL_ERP.Properties.Resources.resources
+c:\users\ottomann\documents\visual studio 2015\Projects\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\obj\Debug\DEPO KİMYASAL ERP.csproj.GenerateResource.Cache
+c:\users\ottomann\documents\visual studio 2015\Projects\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\obj\Debug\DEPO KİMYASAL ERP.exe
+c:\users\ottomann\documents\visual studio 2015\Projects\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\obj\Debug\DEPO KİMYASAL ERP.pdb
+c:\users\ottomann\documents\visual studio 2015\Projects\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\obj\Debug\DEPO_KİMYASAL_ERP.ANA_FORM.resources
+c:\users\ottomann\documents\visual studio 2015\Projects\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\bin\Debug\ExcelDataReader.DataSet.dll
+c:\users\ottomann\documents\visual studio 2015\Projects\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\bin\Debug\ExcelDataReader.dll
+c:\users\ottomann\documents\visual studio 2015\Projects\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\bin\Debug\ExcelDataReader.pdb
+c:\users\ottomann\documents\visual studio 2015\Projects\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\bin\Debug\ExcelDataReader.xml
+c:\users\ottomann\documents\visual studio 2015\Projects\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\bin\Debug\ExcelDataReader.DataSet.pdb
+c:\users\ottomann\documents\visual studio 2015\Projects\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\OTTOMANN\Documents\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\bin\Debug\DEPO KİMYASAL ERP.exe.config
+C:\Users\OTTOMANN\Documents\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\obj\Debug\DEPO KİMYASAL ERP.exe
+C:\Users\OTTOMANN\Documents\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\obj\Debug\DEPO KİMYASAL ERP.pdb
+C:\Users\OTTOMANN\Documents\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\bin\Debug\DEPO KİMYASAL ERP.exe
+C:\Users\OTTOMANN\Documents\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\bin\Debug\DEPO KİMYASAL ERP.pdb
+C:\Users\OTTOMANN\Documents\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\OTTOMANN\Documents\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\bin\Debug\ExcelDataReader.dll
+C:\Users\OTTOMANN\Documents\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\bin\Debug\ExcelDataReader.pdb
+C:\Users\OTTOMANN\Documents\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\bin\Debug\ExcelDataReader.xml
+C:\Users\OTTOMANN\Documents\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\OTTOMANN\Documents\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\OTTOMANN\Documents\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\obj\Debug\DEPO KİMYASAL ERP.csprojResolveAssemblyReference.cache
+C:\Users\OTTOMANN\Documents\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\obj\Debug\DEPO_KİMYASAL_ERP.ANA_FORM.resources
+C:\Users\OTTOMANN\Documents\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\obj\Debug\DEPO_KİMYASAL_ERP.Form1.resources
+C:\Users\OTTOMANN\Documents\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\obj\Debug\DEPO_KİMYASAL_ERP.Properties.Resources.resources
+C:\Users\OTTOMANN\Documents\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\obj\Debug\DEPO KİMYASAL ERP.csproj.GenerateResource.Cache
+C:\Users\BATUHAN\Documents\GitHub\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\bin\Debug\DEPO KİMYASAL ERP.exe.config
+C:\Users\BATUHAN\Documents\GitHub\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\obj\Debug\DEPO KİMYASAL ERP.exe
+C:\Users\BATUHAN\Documents\GitHub\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\obj\Debug\DEPO KİMYASAL ERP.pdb
+C:\Users\BATUHAN\Documents\GitHub\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\bin\Debug\DEPO KİMYASAL ERP.exe
+C:\Users\BATUHAN\Documents\GitHub\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\bin\Debug\DEPO KİMYASAL ERP.pdb
+C:\Users\BATUHAN\Documents\GitHub\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\BATUHAN\Documents\GitHub\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\bin\Debug\ExcelDataReader.dll
+C:\Users\BATUHAN\Documents\GitHub\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\bin\Debug\ExcelDataReader.pdb
+C:\Users\BATUHAN\Documents\GitHub\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\bin\Debug\ExcelDataReader.xml
+C:\Users\BATUHAN\Documents\GitHub\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\BATUHAN\Documents\GitHub\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\BATUHAN\Documents\GitHub\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\obj\Debug\DEPO_KİMYASAL_ERP.ANA_FORM.resources
+C:\Users\BATUHAN\Documents\GitHub\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\obj\Debug\DEPO_KİMYASAL_ERP.Form1.resources
+C:\Users\BATUHAN\Documents\GitHub\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\obj\Debug\DEPO_KİMYASAL_ERP.Properties.Resources.resources
+C:\Users\BATUHAN\Documents\GitHub\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\obj\Debug\DEPO KİMYASAL ERP.csproj.GenerateResource.Cache
+C:\Users\BATUHAN\Documents\GitHub\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\obj\Debug\DEPO KİMYASAL ERP.csproj.AssemblyReference.cache
+C:\Users\BATUHAN\Documents\GitHub\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\obj\Debug\DEPO KİMYASAL ERP.csproj.SuggestedBindingRedirects.cache
+C:\Users\BATUHAN\Documents\GitHub\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\obj\Debug\DEPO KİMYASAL ERP.csproj.CoreCompileInputs.cache
+C:\Users\BATUHAN\Documents\GitHub\DEPO KİMYASAL ERP\DEPO KİMYASAL ERP\obj\Debug\DEPO KİMYASAL ERP.csproj.CopyComplete
